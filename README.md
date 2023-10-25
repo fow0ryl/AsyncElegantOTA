@@ -1,16 +1,5 @@
 <p align="center"><img src="/docs/logo.svg?sanitize=true&raw=true" width="400"></p>
 
-<hr/>
-<p align="center">
-<img src="https://img.shields.io/github/last-commit/ayushsharma82/AsyncElegantOTA.svg?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/workflow/status/ayushsharma82/AsyncElegantOTA/Arduino%20Library%20CI/master?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/license/ayushsharma82/AsyncElegantOTA.svg?style=for-the-badge" />
-</p>
-<hr/>
-
-
 <p align="center">Perform OTAs for ESP8266 & ESP32 Asynchronously</p>
 <p align="center">
 AsyncElegantOTA provides a beautiful interface to upload Over the Air `.bin` updates to your ESP Modules with precise status and progress displayed over UI. This Library shows the current upload progress of your OTA and once finished, it will display the status of your OTA. This Version of Library uses AsyncWebServer. Thanks to @me-no-dev for a wonderful webserver library.
